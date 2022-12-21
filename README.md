@@ -1,6 +1,6 @@
-# DARS
+# StudentsRadar
 
-Official [website](https://darsler.com), developer portfolio & blog of [Dars](https://github.com/russelshane).
+Temporary project for Gordon College (BSCS-1C).
 
 ## Features
 
