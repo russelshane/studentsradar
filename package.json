@@ -1,6 +1,11 @@
 {
-  "name": "next-js-boilerplate",
-  "version": "3.6.0",
+  "private": true,
+  "name": "@studentsradar/app",
+  "version": "1.6.0",
+  "author": {
+    "email": "hello@darsler.com",
+    "name": "StudentsRadar"
+  },
   "scripts": {
     "dev": "next dev",
     "build": "next build",
@@ -103,6 +108,5 @@
       "@semantic-release/git",
       "@semantic-release/github"
     ]
-  },
-  "author": "Ixartz (https://github.com/ixartz)"
+  }
 }
