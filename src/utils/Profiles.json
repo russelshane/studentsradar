@@ -47,5 +47,12 @@
     "age": 20,
     "hobbies": ["Playing Video Games"],
     "avatarUrl": "https://ik.imagekit.io/drs/studentsradar/jester_U2ZrD6i7X.jpg?ik-sdk-version=javascript-1.4.3&updatedAt=1671771078819"
+  },
+  {
+    "id": "8",
+    "fullName": "Alejandro C. Pantig III",
+    "age": 25,
+    "hobbies": ["Basketball"],
+    "avatarUrl": "https://ik.imagekit.io/drs/studentsradar/bust_-b24SJO8v.jpg?ik-sdk-version=javascript-1.4.3&updatedAt=1671773823578"
   }
 ]
