@@ -3,7 +3,7 @@ import Link from 'next/link';
 import { Meta } from '@/layouts/Meta';
 import { Main } from '@/templates/Main';
 
-const Blog = () => (
+const Profile = () => (
   <Main meta={<Meta title="Lorem ipsum" description="Lorem ipsum" />}>
     <p>
       Lorem ipsum dolor sit amet consectetur, adipisicing elit. Ratione fuga
@@ -23,4 +23,4 @@ const Blog = () => (
   </Main>
 );
 
-export default Blog;
+export default Profile;

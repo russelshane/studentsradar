@@ -1,0 +1,51 @@
+[
+  {
+    "id": "1",
+    "fullName": "Lee Parker D. Parantar",
+    "age": 18,
+    "hobbies": ["Crocheting", "Dancing", "Overthinking", "Valorant"],
+    "avatarUrl": "https://ik.imagekit.io/drs/studentsradar/lee_Y_MGuJvdcrw.jpg?ik-sdk-version=javascript-1.4.3&updatedAt=1671770383903"
+  },
+  {
+    "id": "2",
+    "fullName": "Marc Angelo N. Palomares",
+    "age": 20,
+    "hobbies": ["Playing Basketball", "Video Games"],
+    "avatarUrl": "https://ik.imagekit.io/drs/studentsradar/marc_UzbznsLNLN.png?ik-sdk-version=javascript-1.4.3&updatedAt=1671770389337"
+  },
+  {
+    "id": "3",
+    "fullName": "Darsler Russel Shane S. Fortes",
+    "age": 20,
+    "hobbies": ["Unknown"],
+    "avatarUrl": "https://ik.imagekit.io/drs/studentsradar/dars_R6Ea7Yr2-L.png?ik-sdk-version=javascript-1.4.3&updatedAt=1671770390595"
+  },
+  {
+    "id": "4",
+    "fullName": "Eduaro Julius Rosales",
+    "age": 18,
+    "hobbies": ["Sleeping", "Playing"],
+    "avatarUrl": "https://ik.imagekit.io/drs/studentsradar/edu_6jSIRJqnJl.jpg?ik-sdk-version=javascript-1.4.3&updatedAt=1671770383943"
+  },
+  {
+    "id": "5",
+    "fullName": "Jhonrey Velasquez",
+    "age": 22,
+    "hobbies": ["Playing Video Games"],
+    "avatarUrl": "https://ik.imagekit.io/drs/studentsradar/jhonrey_K2FxFquP9W.jpg?ik-sdk-version=javascript-1.4.3&updatedAt=1671770388140"
+  },
+  {
+    "id": "6",
+    "fullName": "John Gabriel L. Cuadro",
+    "age": 18,
+    "hobbies": ["Walking", "Playing"],
+    "avatarUrl": "https://ik.imagekit.io/drs/studentsradar/cuadro_w_H73knAse.png?ik-sdk-version=javascript-1.4.3&updatedAt=1671770391392"
+  },
+  {
+    "id": "7",
+    "fullName": "Jester John Ceralbo",
+    "age": 20,
+    "hobbies": ["Playing Video Games"],
+    "avatarUrl": "https://ik.imagekit.io/drs/studentsradar/jester_U2ZrD6i7X.jpg?ik-sdk-version=javascript-1.4.3&updatedAt=1671771078819"
+  }
+]
